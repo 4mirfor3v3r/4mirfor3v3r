@@ -41,4 +41,4 @@ Im a Mobile Developer with two year of experience, also a student at Telkom Univ
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mirfor3v3r&langs_count=6&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mirfor3v3r&langs_count=6&layout=compact&theme=algolia&hide=css)](https://github.com/anuraghazra/github-readme-stats)
