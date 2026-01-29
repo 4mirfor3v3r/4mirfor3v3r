@@ -8,7 +8,7 @@ Im a Mobile Developer with two year of experience, also a student at Telkom Univ
 
 * 🌍  Domicile in Bandung
 * 🚀  I'm AI Enthusiast
-* 📚  Currently learning about Computer Vision and NLP
+* 📚  Currently learning about Computer Vision and LLM
 * ✉️  You can contact me at [ahmadamirudin901@gmail.com](mailto:ahmadamirudin901@gmail.com)
 
 ### Socials
